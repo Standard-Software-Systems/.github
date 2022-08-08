@@ -4,3 +4,5 @@
 <p align="center">
   <img src="https://cdn.hyperz.net/u/main/paW2ME1.png" style="width: 10em; height: 10em;">
 </p>
+
+<p align="center"><em>All public repositories for scaled projects are hosted by us on our servers.</em></p>
